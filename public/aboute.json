@@ -1,0 +1,83 @@
+[
+    {
+        "_id": "1",
+        "category": "Electronics",
+        "image": "https://i.ibb.co/zRBW6y2/piron-guillaume-y5h-QCIn1c6o-unsplash.jpg",
+        "details": "Powerful laptop with high-performance features.",
+        "name": "workhorse of the industrial world is best when its sweet variety is fried up foods",
+        "donor": "Alex Johnson",
+        "price": 1299.99
+    },
+    {
+        "_id": "2",
+        "category": "Clothing",
+        "image": "https://i.ibb.co/zV8W8Lt/johny-georgiadis-3ewk-Nkf-Jj2k-unsplash.jpg",
+        "details": "Elegant evening dress for special occasions.",
+        "name": "There is no love sincerer than the love of food",
+        "donor": "Sophia Lee",
+        "price": 79.99
+    },
+    {
+        "_id": "3",
+        "category": "Home and Kitchen",
+        "image": "https://i.ibb.co/P1QMBCt/luis-melendez-Pd4l-Rf-Ko16-U-unsplash.jpg",
+        "details": "High-speed blender for smoothies and more.",
+        "name": "George Bernard Shaw said",
+        "donor": "William Smith",
+        "price": 89.99
+    },
+    {
+        "_id": "4",
+        "category": "Books",
+        "image": "https://i.ibb.co/jfHtQ99/national-cancer-institute-cw2-Zn2-ZQ9-YQ-unsplash.jpg",
+        "details": "Bestselling novel that captivates readers.",
+        "name": "Judging by the number of amazing",
+        "donor": "Emma Davis",
+        "price": 14.99
+    },
+    {
+        "_id": "5",
+        "category": "Sports and Outdoors",
+        "image": "https://i.ibb.co/F5FFNs4/tom-claes-Cfdz-Nyb-ONzc-unsplash.jpg",
+        "details": "Spacious tent for camping adventures.",
+        "name": "dishes out there, he was right",
+        "donor": "Daniel Miller",
+        "price": 199.99
+    },
+    {
+        "_id": "6",
+        "category": "Electronics",
+        "image": "https://i.ibb.co/my51n9H/download.jpg",
+        "details": "Premium noise-canceling headphones for immersive audio.",
+        "name": "Near the remains of South Koreans largest",
+        "donor": "Olivia White",
+        "price": 149.99
+    },
+    {
+        "_id": "7",
+        "category": "Clothing",
+        "image": "https://i.ibb.co/2dT43cg/hosp.jpg",
+        "details": "Warm and stylish sweater for the winter season.",
+        "name": "Buttered popcorn, United foods",
+        "donor": "Mason Turner",
+        "price": 39.99
+    },
+    {
+        "_id": "8",
+        "category": "Home and Kitchen",
+        "image": "https://i.ibb.co/st2wmrc/images.jpg",
+        "details": "Efficient microwave for quick and easy cooking.",
+        "name": "Foods Delicious",
+        "donor": "Ella Parker",
+        "price": 79.99
+    },
+    {
+        "_id": "9",
+        "category": "Kitchen",
+        "image": "https://i.ibb.co/st2wmrc/images.jpg",
+        "details": "Efficient microwave for quick and easy cooking.",
+        "name": "Foods Flavour",
+        "donor": "Ella Parker",
+        "price": 79.99
+    }
+]

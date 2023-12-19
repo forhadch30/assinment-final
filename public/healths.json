@@ -1,0 +1,83 @@
+[
+    {
+        "_id": "1",
+        "category": "|APPLES|",
+        "image": "https://i.ibb.co/W5kHV8L/nrd-D6-Tu-L3ch-LE-unsplash.jpg",
+        "details": "Powerful laptop with high-performance features.",
+        "name": "workhorse of the industrial world is best foods ",
+        "donor": "Alex Johnson",
+        "price": 1299.99
+    },
+    {
+        "_id": "2",
+        "category": "|APPLES|",
+        "image": "https://i.ibb.co/wSWtNVQ/gemma-stpj-HJGq-Zyw-unsplash.jpg",
+        "details": "Elegant evening dress for special occasions.",
+        "name": "There is no love sincerer than the love of foods",
+        "donor": "Sophia Lee",
+        "price": 79.99
+    },
+    {
+        "_id": "3",
+        "category": "BANNANAS",
+        "image": "https://i.ibb.co/HCWhS6s/benjamin-massello-tw-X-c-Wl-8-OM-unsplash.jpg",
+        "details": "High-speed blender for smoothies and more.",
+        "name": "when its sweet variety is fried up the best foods",
+        "donor": "William Smith",
+        "price": 89.99
+    },
+    {
+        "_id": "4",
+        "category": "ORANGES",
+        "image": "https://i.ibb.co/mbW4yLJ/dennis-siqueira-d-Wz-Regf99a-A-unsplash.jpg",
+        "details": "Bestselling novel that captivates readers.",
+        "name": "Judging by the number of amazing",
+        "donor": "Emma Davis",
+        "price": 14.99
+    },
+    {
+        "_id": "5",
+        "category": "HAMBURGES",
+        "image": "https://i.ibb.co/374XqmX/jordan-madrid-Nvdscov-ENOY-unsplash.jpg",
+        "details": "Spacious tent for camping adventures.",
+        "name": "dishes out there, he was right",
+        "donor": "Daniel Miller",
+        "price": 199.99
+    },
+    {
+        "_id": "6",
+        "category": "SEAFOOD",
+        "image": "https://i.ibb.co/4tzYcsW/melissa-askew-Ulh2-AASx4-DE-unsplash.jpg",
+        "details": "Premium noise-canceling headphones for immersive audio.",
+        "name": "Near the remains of South Koreans largest",
+        "donor": "Olivia White",
+        "price": 149.99
+    },
+    {
+        "_id": "7",
+        "category": "PANCAKES",
+        "image": "https://i.ibb.co/bHMnJXh/melissa-askew-W8-K3-ZKTJ5f-M-unsplash.jpg",
+        "details": "Warm and stylish sweater for the winter season.",
+        "name": "Buttered popcorn, foods",
+        "donor": "Mason Turner",
+        "price": 39.99
+    },
+    {
+        "_id": "8",
+        "category": "BACONS",
+        "image": "https://i.ibb.co/r0ftqzG/jacopo-maia-g-OUx23-DNks-unsplash.jpg",
+        "details": "Efficient microwave for quick and easy cooking.",
+        "name": "MFoods Delicious",
+        "donor": "Ella Parker",
+        "price": 79.99
+    },
+    {
+        "_id": "9",
+        "category": "PORRIDGES",
+        "image": "https://i.ibb.co/C5zMF7T/anne-preble-SAPv-Ko12d-QE-unsplash.jpg",
+        "details": "Efficient microwave for quick and easy cooking.",
+        "name": "Foods Flavour",
+        "donor": "Ella Parker",
+        "price": 79.99
+    }
+]
